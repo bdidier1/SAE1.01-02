@@ -1,0 +1,177 @@
+
+Début de la Méthode RESAMPLE
+[ RESAMPLE ] Facteur de fréquence : 0.5
+[ RESAMPLE ] Taille d'entrée initiale : 422302
+[ RESAMPLE ]  Cas freqScale < 1 : nouvelle taille = 844605
+[ RESAMPLE ] Création tableau de sortie de taille : 844605
+[ RESAMPLE ] Recalcul taille pour freqScale < 1 : 844604
+[ RESAMPLE ] Nombre d'échantillons : 1.0
+
+[ RESAMPLE ] Début du rééchantillonnage...
+[ RESAMPLE ] Progression : 0% - Position : 0/844604
+[ RESAMPLE ] Valeur échantillon : 0.0 (saut=0)
+[ RESAMPLE ] Progression : 9% - Position : 84460/844604
+[ RESAMPLE ] Valeur échantillon : 2.44140625E-4 (saut=42230)
+[ RESAMPLE ] Progression : 19% - Position : 168920/844604
+[ RESAMPLE ] Valeur échantillon : -0.124176025390625 (saut=84460)
+[ RESAMPLE ] Progression : 29% - Position : 253380/844604
+[ RESAMPLE ] Valeur échantillon : -0.15545654296875 (saut=126690)
+[ RESAMPLE ] Progression : 39% - Position : 337840/844604
+[ RESAMPLE ] Valeur échantillon : 0.04571533203125 (saut=168920)
+[ RESAMPLE ] Progression : 49% - Position : 422300/844604
+[ RESAMPLE ] Valeur échantillon : -0.073272705078125 (saut=211150)
+[ RESAMPLE ] Progression : 59% - Position : 506760/844604
+[ RESAMPLE ] Valeur échantillon : -0.0230712890625 (saut=253380)
+[ RESAMPLE ] Progression : 69% - Position : 591220/844604
+[ RESAMPLE ] Valeur échantillon : -0.103729248046875 (saut=295610)
+[ RESAMPLE ] Progression : 79% - Position : 675680/844604
+[ RESAMPLE ] Valeur échantillon : -0.020416259765625 (saut=337840)
+[ RESAMPLE ] Progression : 89% - Position : 760140/844604
+[ RESAMPLE ] Valeur échantillon : -0.349639892578125 (saut=380070)
+[ RESAMPLE ] Progression : 99% - Position : 844600/844604
+[ RESAMPLE ] Valeur échantillon : -0.008331298828125 (saut=422300)
+
+[ RESAMPLE ] Statistiques finales :
+[ RESAMPLE ] Nombre d'échantillons traités : 844604
+[ RESAMPLE ] Taille finale du tableau : 844605
+[ RESAMPLE ] Ratio de compression : 0,50
+Fin de la méthode RESAMPLE 
+
+ 
+
+Début de la Méthode VOCODESIMPLE 
+[ SIMPLE ] Facteur de dilatation : 2.0
+[ SIMPLE ] Taille de séquence : 4410
+[ SIMPLE ] Taille du saut : 8820.0
+[ SIMPLE ] Séquence : 4410
+[ TEST SIMPLE ] Position :  [0] [4410] [8820] [13230] [17640] [22050] [26460] [30870] [35280] [39690] [44100] [48510] [52920] [57330] [61740] [66150] [70560] [74970] [79380] [83790] [88200] [92610] [97020] [101430] [105840] [110250] [114660] [119070] [123480] [127890] [132300] [136710] [141120] [145530] [149940] [154350] [158760] [163170] [167580] [171990] [176400] [180810] [185220] [189630] [194040] [198450] [202860] [207270] [211680] [216090] [220500] [224910] [229320] [233730] [238140] [242550] [246960] [251370] [255780] [260190] [264600] [269010] [273420] [277830] [282240] [286650] [291060] [295470] [299880] [304290] [308700] [313110] [317520] [321930] [326340] [330750] [335160] [339570] [343980] [348390] [352800] [357210] [361620] [366030] [370440] [374850] [379260] [383670] [388080] [392490] [396900] [401310] [405720] [410130] [414540] [418950][ SIMPLE ] Taille de la sortie : 422302
+Fin de la méthode VOCODESIMPLE
+
+
+Début de la Méthode VOCODESIMPLEOVER 
+[ SIMPLEOVER ] Facteur de dilatation : 2.0
+[ SIMPLEOVER ] Taille de chevauchement : 882
+[ SIMPLEOVER ] Taille finale du signal : 422303
+Fin de la méthode VOCODESIMPLEOVER 
+
+
+Début de la méthode OVERCROSS
+[ OVERCROSS ] Facteur de dilatation : 2.0
+[ OVERCROSS ] Traitement position : 0/844605
+[ OVERCROSS ] Traitement position : 8820/844605
+[ OVERCROSS ] Traitement position : 17640/844605
+[ OVERCROSS ] Traitement position : 26460/844605
+[ OVERCROSS ] Traitement position : 35280/844605
+[ OVERCROSS ] Traitement position : 44100/844605
+[ OVERCROSS ] Traitement position : 52920/844605
+[ OVERCROSS ] Traitement position : 61740/844605
+[ OVERCROSS ] Traitement position : 70560/844605
+[ OVERCROSS ] Traitement position : 79380/844605
+[ OVERCROSS ] Traitement position : 88200/844605
+[ OVERCROSS ] Traitement position : 97020/844605
+[ OVERCROSS ] Traitement position : 105840/844605
+[ OVERCROSS ] Traitement position : 114660/844605
+[ OVERCROSS ] Traitement position : 123480/844605
+[ OVERCROSS ] Traitement position : 132300/844605
+[ OVERCROSS ] Traitement position : 141120/844605
+[ OVERCROSS ] Traitement position : 149940/844605
+[ OVERCROSS ] Traitement position : 158760/844605
+[ OVERCROSS ] Traitement position : 167580/844605
+[ OVERCROSS ] Traitement position : 176400/844605
+[ OVERCROSS ] Traitement position : 185220/844605
+[ OVERCROSS ] Traitement position : 194040/844605
+[ OVERCROSS ] Traitement position : 202860/844605
+[ OVERCROSS ] Traitement position : 211680/844605
+[ OVERCROSS ] Traitement position : 220500/844605
+[ OVERCROSS ] Traitement position : 229320/844605
+[ OVERCROSS ] Traitement position : 238140/844605
+[ OVERCROSS ] Traitement position : 246960/844605
+[ OVERCROSS ] Traitement position : 255780/844605
+[ OVERCROSS ] Traitement position : 264600/844605
+[ OVERCROSS ] Traitement position : 273420/844605
+[ OVERCROSS ] Traitement position : 282240/844605
+[ OVERCROSS ] Traitement position : 291060/844605
+[ OVERCROSS ] Traitement position : 299880/844605
+[ OVERCROSS ] Traitement position : 308700/844605
+[ OVERCROSS ] Traitement position : 317520/844605
+[ OVERCROSS ] Traitement position : 326340/844605
+[ OVERCROSS ] Traitement position : 335160/844605
+[ OVERCROSS ] Traitement position : 343980/844605
+[ OVERCROSS ] Traitement position : 352800/844605
+[ OVERCROSS ] Traitement position : 361620/844605
+[ OVERCROSS ] Traitement position : 370440/844605
+[ OVERCROSS ] Traitement position : 379260/844605
+[ OVERCROSS ] Traitement position : 388080/844605
+[ OVERCROSS ] Traitement position : 396900/844605
+[ OVERCROSS ] Traitement position : 405720/844605
+[ OVERCROSS ] Traitement position : 414540/844605
+[ OVERCROSS ] Traitement position : 423360/844605
+[ OVERCROSS ] Traitement position : 432180/844605
+[ OVERCROSS ] Traitement position : 441000/844605
+[ OVERCROSS ] Traitement position : 449820/844605
+[ OVERCROSS ] Traitement position : 458640/844605
+[ OVERCROSS ] Traitement position : 467460/844605
+[ OVERCROSS ] Traitement position : 476280/844605
+[ OVERCROSS ] Traitement position : 485100/844605
+[ OVERCROSS ] Traitement position : 493920/844605
+[ OVERCROSS ] Traitement position : 502740/844605
+[ OVERCROSS ] Traitement position : 511560/844605
+[ OVERCROSS ] Traitement position : 520380/844605
+[ OVERCROSS ] Traitement position : 529200/844605
+[ OVERCROSS ] Traitement position : 538020/844605
+[ OVERCROSS ] Traitement position : 546840/844605
+[ OVERCROSS ] Traitement position : 555660/844605
+[ OVERCROSS ] Traitement position : 564480/844605
+[ OVERCROSS ] Traitement position : 573300/844605
+[ OVERCROSS ] Traitement position : 582120/844605
+[ OVERCROSS ] Traitement position : 590940/844605
+[ OVERCROSS ] Traitement position : 599760/844605
+[ OVERCROSS ] Traitement position : 608580/844605
+[ OVERCROSS ] Traitement position : 617400/844605
+[ OVERCROSS ] Traitement position : 626220/844605
+[ OVERCROSS ] Traitement position : 635040/844605
+[ OVERCROSS ] Traitement position : 643860/844605
+[ OVERCROSS ] Traitement position : 652680/844605
+[ OVERCROSS ] Traitement position : 661500/844605
+[ OVERCROSS ] Traitement position : 670320/844605
+[ OVERCROSS ] Traitement position : 679140/844605
+[ OVERCROSS ] Traitement position : 687960/844605
+[ OVERCROSS ] Traitement position : 696780/844605
+[ OVERCROSS ] Traitement position : 705600/844605
+[ OVERCROSS ] Traitement position : 714420/844605
+[ OVERCROSS ] Traitement position : 723240/844605
+[ OVERCROSS ] Traitement position : 732060/844605
+[ OVERCROSS ] Traitement position : 740880/844605
+[ OVERCROSS ] Traitement position : 749700/844605
+[ OVERCROSS ] Traitement position : 758520/844605
+[ OVERCROSS ] Traitement position : 767340/844605
+[ OVERCROSS ] Traitement position : 776160/844605
+[ OVERCROSS ] Traitement position : 784980/844605
+[ OVERCROSS ] Traitement position : 793800/844605
+[ OVERCROSS ] Traitement position : 802620/844605
+[ OVERCROSS ] Traitement position : 811440/844605
+[ OVERCROSS ] Traitement position : 820260/844605
+[ OVERCROSS ] Traitement position : 829080/844605
+[ OVERCROSS ] Traitement position : 837900/844605
+[ OVERCROSS ] Taille finale du signal : 422303
+Fin de la méthode OVERCROSS 
+
+
+Début de la méthode JOUE
+[ JOUE ] Lecture du signal audio...
+
+Début de la méthode DISPLAYWAVEFORM
+[ WAVEFORM ] Affichage de la forme d'onde...
+Fin de la méthode DISPLAYWAVEFORM
+
+Fin de la méthode JOUE
+
+
+Début de la méthode ECHO :
+[ ECHO ] Délai (ms) : 100.0
+[ ECHO ] Atténuation : 0.7
+Fin de la méthode ECHO 
+
+
+Début de la méthode DISPLAYWAVEFORM
+[ WAVEFORM ] Affichage de la forme d'onde...
